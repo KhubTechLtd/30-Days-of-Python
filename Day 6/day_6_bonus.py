@@ -1,6 +1,8 @@
 import datetime
 
 
+#Started working from this point forward.
+
 default_names = ["Justin", "john", "Emilee", "Jim", "Ron", "Sandra", "veronica", "Whitney"]
 default_amounts = [123.32, 94.23, 124.32, 323.4, 23, 322.122323, 32.4, 99.99]
 
